@@ -1,0 +1,12 @@
+// App.scss
+$primary-color: darkblue;
+$background-color: lightblue;
+
+body {
+  background-color: $background-color;
+}
+
+h1 {
+  color: $primary-color;
+  text-align: center;
+}
